@@ -1,0 +1,15 @@
+{
+  "name": "xp11-relay",
+  "version": "1.0.0",
+  "description": "X-Plane 11 Datalink Relay",
+  "main": "index.js",
+  "dependencies": {
+    "buffer-offset": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
